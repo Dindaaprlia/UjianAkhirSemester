@@ -6,9 +6,9 @@ int main()
 {
     int angka;
     cout<<"bilangan ganjil genap"<<endl;
-    cout<<"masukan batas maksimal angka;";
+    cout<<"masukan batas maksimal angka;";  
     cin>>angka;
-    cout<<"bilangan genap"<<endl;
+    cout<<"bilangan genap"<<endl; 
     for(int i=1; i<=angka; i++)
     {
         if(i%2==0)
